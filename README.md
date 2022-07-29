@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pahasara DvNET.
-- 👀 I’m interested in Quality Programming.
+- 👀 I’m interested in Computer Science.
 * 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on a project.
+- 💞️ I’m looking to collaborate on Project-Parker.
 
 <!---
 Pahasara/Pahasara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
