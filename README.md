@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pahasara DvNET.
 - 👀 I’m interested in Computer Science.
-* 🌱 I’m currently learning C#.
+* 🌱 I’m currently learning fundamentals of programming.
 - 💞️ I’m looking to collaborate on analyzing...
 
 <!---
