@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Pahasara DvNET.
-- 👀 I’m interested in Computer Science.
+# 👋 Hi, I’m Pahasara DvNET aka Shinzo or Osiriz.
+- 👀 I’m interested in anything connected with complexity.
 * 🌱 I’m currently learning fundamentals of programming.
 - 💞️ I’m looking to collaborate on analyzing...
 
