@@ -1,4 +1,4 @@
-# 👋 Hi, I’m DvNET (aka Shinzo or Osiriz).
+# 👋 Hi, I’m DvNET/shinzo.
 - 👀 I’m interested in anything connected with complexity.
 * 🌱 I’m currently learning fundamentals of programming.
 - 💞️ I’m looking to collaborate on analyzing...
