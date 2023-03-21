@@ -7,9 +7,10 @@ This is a ✨ special ✨ repository because its `README.md` (this file) appears
 # 💫 About Me:
 * 🔭 I'm an university student.
 * 👀 I’m interested in anything connected with complexity.
-* 🤝 I’m looking for help with<br>🌱 I’m currently learning fundamentals of programming.
-* 📫 How to reach me [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) 
-* ⚡ Fun fact : I was top 10' Gusion player in japan.
+* 💞️ I’m looking to collaborate on analyzing projects.
+* 🌱 I’m currently learning fundamentals of programming.
+* 📫 Reach me on [![Twitter]twitter](https://twitter.com/PahasaraDv) 
+* ⚡ In S24, I was top 10' Gusion player in japan.
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
