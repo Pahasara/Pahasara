@@ -1,6 +1,8 @@
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
+[![VisitCount](https://visitcount.itsvg.in/api?id=Pahasara&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm DvNET/shinzo</h1>
 <h3 align="center">Got some love from coding.</h3>
 
@@ -9,7 +11,7 @@ This is a ✨ special ✨ repository because its `README.md` (this file) appears
 * 👀 I’m interested in anything connected with complexity.
 * 💞️ I’m looking to collaborate on analyzing projects.
 * 🌱 I’m currently learning fundamentals of programming.
-* 📫 Reach me on [![Twitter]twitter](https://twitter.com/PahasaraDv) 
+* 📫 Reach me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) 
 * ⚡ In S24, I was top 10' Gusion player in japan.
 
 ## 💻 Tech Stack:
@@ -20,5 +22,7 @@ This is a ✨ special ✨ repository because its `README.md` (this file) appears
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
 
-[![VisitCount](https://visitcount.itsvg.in/api?id=Pahasara&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
