@@ -24,3 +24,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahasara&show_icons=true&locale=en&layout=compact" alt="pahasara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahasara&show_icons=true&locale=en" alt="pahasara" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pahasara&" alt="pahasara" /></p>
+
