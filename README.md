@@ -1,6 +1,6 @@
 <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
-<h1 align="center">Hi 👋, I'm DvNET/shinzo</h1>
-<h3 align="center">Got some love from coding.</h3>
+<h1 align="center">👋, I'm DvNET/shinzo</h1>
+<h3 align="center">Tho zmillǝ sughbishuzǝnnǝn tachorrin.</h3>
 
 # 💫 About Me:
 * 🔭 I'm an university student.
