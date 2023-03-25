@@ -1,5 +1,5 @@
 <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
-<h1 align="center">👋I'm DvNET/shinzo</h1>
+<h1 align="center">🧙‍♂️ DvNET/shinzo</h1>
 <h3 align="center">ᴛʜᴏ ᴢᴍɪʟʟǝ ꜱᴜɢʜʙɪꜱʜᴜᴢǝɴɴǝɴ ᴛᴀᴄʜᴏʀʀɪɴ.</h3>
 
 # 💫 About Me:
