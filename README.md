@@ -7,7 +7,7 @@
 * 👀 I’m interested in anything connected with complexity.
 * 💞️ I’m looking to collaborate on analyzing projects.
 * 🌱 I’m currently learning fundamentals of programming.
-* 📫 Reach me on [(twitter)](https://twitter.com/PahasaraDv)
+* 📫 Reach me on [twitter](https://twitter.com/PahasaraDv)
 * ⚡ In S26, I was local top 10' Gusion player.
 
 ## 💻 Tech Stack:
