@@ -8,7 +8,7 @@
 * 💞️ I’m looking to collaborate on analyzing projects.
 * 🌱 I’m currently learning fundamentals of programming.
 * 📫 Reach me on [twitter](https://twitter.com/PahasaraDv)
-* ⚡ In S26, I was local top 10' Gusion player.
+* ⚡ In S26, I was local(region Japan) top 10' Gusion player.
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
