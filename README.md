@@ -6,10 +6,10 @@
 * 🔭 I'm a huge fan of JJK.
 * 👀 Interested in anything connected with simplicity n complexity.
 * 💞️ Looking to collaborate on analyzing.
-* 🌱 Currently learning fundamentals of programming.
-* 📫 Reach me on [twitter](https://twitter.com/PahasaraDv)
+* 🌱 Currently learning about 呪い.
+* 📫 Open ur eyes n see the creatures for what they r.
 * ⚡ Was local (region Japan) top 10' Gusion player in S26.
-
+  
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
