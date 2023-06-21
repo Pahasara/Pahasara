@@ -3,7 +3,7 @@
 <h3 align="center">ᴛʜᴏ ᴢᴍɪʟʟǝ ꜱᴜɢʜʙɪꜱʜᴜᴢǝɴɴǝɴ ᴛᴀᴄʜᴏʀʀɪɴ.</h3>
 
 # 💫 About Me:
-* 🔭 I'm a huge fan of JJK.
+* 🔭 A hardcore JJK fan.
 * 👀 Interested in anything connected with simplicity n complexity.
 * 💞️ Looking to collaborate on analyzing.
 * 🌱 Currently learning about 呪い.
