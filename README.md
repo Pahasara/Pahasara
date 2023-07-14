@@ -3,7 +3,7 @@
 <h3 align="center">ᴛʜᴏ ᴢᴍɪʟʟǝ ꜱᴜɢʜʙɪꜱʜᴜᴢǝɴɴǝɴ ᴛᴀᴄʜᴏʀʀɪɴ.</h3>
 
 # 💫 About Me:
-* ⚡ Tryna' be the top gs player. 
+* ⚡ Failin' to be the top gs player. 
   
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
