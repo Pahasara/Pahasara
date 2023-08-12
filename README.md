@@ -14,6 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
 
 ## 🌐 Reach me:
-[![VisitCount](https://visitcount.itsvg.in/api?id=Pahasara&icon=0&color=0)](https://visitcount.itsvg.in) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
+[![VisitCount](https://visitcount.itsvg.in/api?id=Pahasara&icon=0&color=0)](https://visitcount.itsvg.in) [![Discord](https://img.shields.io/discord/users/1083102293496451108?logo=discord&label=Discord)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
