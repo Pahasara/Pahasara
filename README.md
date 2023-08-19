@@ -2,11 +2,16 @@
 <h1 align="center">🧙‍♂️ DvNET/shinzo</h1>
 <h3 align="center">“ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
  <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ</h3>
+<br>
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pahasara+DvNET..&hearts;++;DvNET,;shinzo,;++,;Madness+is+genius,;imperfection is beauty..<3"></a>
+</p>
 
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 💫 **About Me**:
-* ⚡ Madness is genius, imperfection is beauty.
+* ⚡ , .
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
