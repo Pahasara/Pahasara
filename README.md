@@ -10,9 +10,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Reach me:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) [![Discord](https://img.shields.io/badge/Discord-7289d9?logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
