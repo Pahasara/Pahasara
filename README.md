@@ -1,6 +1,7 @@
  <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 <h1 align="center">🧙‍♂️ DvNET/shinzo</h1>
-<h3 align="center">ᴛʜᴏ ᴢᴍɪʟʟǝ ꜱᴜɢʜʙɪꜱʜᴜᴢǝɴɴǝɴ ᴛᴀᴄʜᴏʀʀɪɴ.</h3>
+<h3 align="center">꧁༒☬ “ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
+ <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ ☬༒꧂</h3>
 
 # 💫 About Me:
 * ⚡ Trying to be the GOAT gs player. 
