@@ -71,10 +71,6 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br> <br>
-![Stats](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) <br> <br>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
-
 <div align="center">
 
 <a href="https://github.com/Pahasara/">
