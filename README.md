@@ -15,6 +15,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
 
 ## 🌐 Reach me:
+![Stat](https://profile-summary-for-github.com/user/Pahasara)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) [![Discord](https://img.shields.io/badge/Discord-7289d9?logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
