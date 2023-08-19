@@ -11,7 +11,9 @@
 
 ## 📊 GitHub Stats:
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
 
 ## 🌐 Reach me:
