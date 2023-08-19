@@ -4,11 +4,15 @@
   </p>
 </h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <h3 align="center">“ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
  <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ</h3>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 - A passionate Self-taught C# lover;
