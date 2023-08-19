@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pahasara+DvNET..;Madness+is+genius,;imperfection+is+beauty..<3)](https://git.io/typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Pahasara+DvNET..;Madness+is+genius,;imperfection+is+beauty..<3")](https://git.io/typing-svg) </a>a>
 </p>
 
 <p align="center">
