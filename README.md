@@ -7,10 +7,10 @@
 * ⚡ Trying to be the GOAT gs player. 
   
 ## 💻 Tech Stack:
-<p align ="top">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  </p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="top">![Stats](https://github-readme-stats.vercel.app/api?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahasara&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact) </p>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pahasara&theme=midnight-purple&hide_border=true)
 
