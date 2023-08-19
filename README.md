@@ -4,7 +4,7 @@
 
 <h3 align="center">“ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
  <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ</h3>
-<br
+<br>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
