@@ -3,7 +3,7 @@
 <h3 align="center">“ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
  <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ</h3>
 
-# 💫 About Me:
+# <a href="https://github.com/DenverCoder1/readme-typing-svg">💫 About Me:
 * ⚡ Madness is genius, imperfection is beauty.
   
 ## 💻 Tech Stack:
