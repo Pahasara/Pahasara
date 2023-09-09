@@ -2,8 +2,8 @@
   <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I+AM+DvNET;aka+shinzo.."> </a> </p>
 
 
-<h3 align="center">“ꜰᴏʟʟᴏᴡ ʏᴏᴜʀ ʜᴇᴀʀᴛ, ʟɪꜱᴛᴇɴ ᴛᴏ ʏᴏᴜʀ ɪɴɴᴇʀ ᴠᴏɪᴄᴇ, ꜱᴛᴏᴘ ᴄᴀʀɪɴɢ ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ᴏᴛʜᴇʀꜱ ᴛʜɪɴᴋ.”
- <br> ― ʀᴏʏ ᴛ. ʙᴇɴɴᴇᴛᴛ</h3>
+<h3 align="center">“ꜰᴀᴋᴇ ꜰʀɪᴇɴᴅꜱ ᴀʀᴇ ʟɪᴋᴇ ꜱʜᴀᴅᴏᴡꜱ, ᴛʜᴇʏ ꜰᴏʟʟᴏᴡ ʏᴏᴜ ɪɴ ᴛʜᴇ ꜱᴜɴ, ʙᴜᴛ ʟᴇᴀᴠᴇ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴅᴀʀᴋ.”
+ <br> ― ʟ. ʟɪɢʜᴛ</h3>
 <br>
 
 
