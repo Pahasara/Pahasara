@@ -1,18 +1,18 @@
  <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
   <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I+AM+DvNET;aka+shinzo.."> </a> </p>
-
-<p>
+  
  <h3 align="center">“ꜰᴀᴋᴇ ꜰʀɪᴇɴᴅꜱ ᴀʀᴇ ʟɪᴋᴇ ꜱʜᴀᴅᴏᴡꜱ, ᴛʜᴇʏ ꜰᴏʟʟᴏᴡ ʏᴏᴜ ɪɴ ᴛʜᴇ ꜱᴜɴ, ʙᴜᴛ ʟᴇᴀᴠᴇ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴅᴀʀᴋ.”
  <br> ― ʟ. ʟɪɢʜᴛ</h3>
-</p>
 
+<p>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
 - A passionate Self-taught C# lover;
 - Playing League's at spare time;
 - Currently learning C language;
 - Heard that, "be yourself; everyone else is already taken";
+</p>
 
-<br><br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
