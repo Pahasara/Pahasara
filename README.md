@@ -8,7 +8,7 @@
 - A passionate Self-taught C# lover;
 - Playing MLBB's at spare time (unreachable for duos);
 - Currently walking on water (only when it freezes);
-- Believe in, "music is the reflection of urself";
+- Believe in, "music is the reflection of self";
 - Heard that, "be yourself; everyone else is already taken";
 
 <br>
