@@ -6,7 +6,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
 - Music is the reflection of self;
-- Currently walking on water (I don't think u should believe);
 - Heard that, "be yourself, everyone else is already taken";
 
 <br>
