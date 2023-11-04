@@ -5,10 +5,8 @@
  <br> ― ʏᴀɢᴀᴍɪ ʟ.</h3> <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
-- A passionate Self-taught C# lover;
-- Playing MLBB's at spare time (unreachable for duos);
+- Music is the reflection of self;
 - Currently walking on water (only when it freezes);
-- Believe in, "music is the reflection of self";
 - Heard that, "be yourself; everyone else is already taken";
 
 <br>
