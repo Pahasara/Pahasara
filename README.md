@@ -5,7 +5,7 @@
  <br> ― ʏᴀɢᴀᴍɪ ʟ.</h3> <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
-- You don't know me, too late!;
+- You don't know me;
 - Music is the reflection of self;
 - Heard that, "be yourself, everyone else is already taken";
 
