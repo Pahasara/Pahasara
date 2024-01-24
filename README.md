@@ -1,7 +1,7 @@
  <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
   <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angels+deserve+to+die!;Closer+u+get+to+something,;Tougher+it+is+to+see+it.;Hope+u+had+the+time+of+ur+life,;But+in+the+end+it's+right..."> </a> </p>
   
- <h3 align="center">“ɴᴏᴛʜɪɴɢ ɪꜱ ᴛʀᴜᴇ. ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ.”
+ <h3 align="center">“ɴᴏᴛʜɪɴɢ ɪꜱ ᴛʀᴜᴇ. ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ.²³”
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
