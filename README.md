@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
 - You don't know me;
-- - puts("I don't need anyone.");
+- puts("I don't need anyone.");
 - cout<< "I'll do it all by myself." <<endl;
   
 <br>
