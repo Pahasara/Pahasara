@@ -3,10 +3,13 @@
   
  <h3 align="center">“ɴᴏᴛʜɪɴɢ ɪꜱ ᴛʀᴜᴇ. ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ.”
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
- 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> 
-<h2 align = center> About </h2>
+
+<h2 align = center> 
+   <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> 
+   About 
+</h2>
 <br>
+
  <p align = center>
 - You don't know him; <br>
 - puts("He doesn't need anyone.");<br>
