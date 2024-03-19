@@ -11,12 +11,12 @@
 <br>
 
 ### * <b>Reality is so Virtual.</b>
-\- There is a world -
-\- That is virtual and different -
-\- It can be so cold -
-\- If we reset it to the start -
-\- Stronger after all -
-\- A world of machines -
+\- There is a world - <br>
+\- That is virtual and different -<br>
+\- It can be so cold -<br>
+\- If we reset it to the start -<br>
+\- Stronger after all -<br>
+\- A world of machines -<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
