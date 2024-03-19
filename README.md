@@ -10,7 +10,7 @@
 - cout<< "He'll do it all by himself." <<endl;
 <br>
 
-### <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/images/v1609019113-OK_bse4hm.webp" width = 50px></picture> <b> From </b>
+### * <b> From </b>
 - There is a world
 - That is virtual and different
 - It can be so cold
