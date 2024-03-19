@@ -19,21 +19,23 @@
                 alt="Stack Overflow"></a><br>
         <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
     </h3>
+    <br> <br>
+</div>
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+    <p style="font-size:48px;"><b>👻 A little more about me...</b>
+        <img src="https://github.com/Pahasara/Pahasara/assets/46932317/3f3ba3b4-2eee-4c9c-89f6-94b3f6ceb869"
+            alt="About Me" width="560">
+    </p>
     <br>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-    <p style="font-size:48px;"><b>👻 A little more about me...</b></p>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/3f3ba3b4-2eee-4c9c-89f6-94b3f6ceb869" alt="About Me"
-        width="560">
-    <br>
-</div>
-<!-- ---------------------------------------------------------------------------------------------------- -->
-
-<div align="center">
-    <p style="font-size:28px;"><b>He may never trust someone... 🎧</b></p>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" alt="Trust"
-        width="560">
+    <p style="font-size:28px;"><b>He may never trust someone... 🎧</b>
+        <img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" alt="Trust"
+            width="560">
+    </p>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
