@@ -5,11 +5,20 @@
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
-- You don't know me;
-- puts("I don't need anyone.");
-- cout<< "I'll do it all by myself." <<endl;
-  
+- You don't know him;
+- puts("He doesn't need anyone.");
+- cout<< "He'll do it all by himself." <<endl;
 <br>
+
+<b> From </b>
+- There is a world
+- That is virtual and different
+- It can be so cold
+- If we reset it to the start
+- Stronger after all
+- A world of machines
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
