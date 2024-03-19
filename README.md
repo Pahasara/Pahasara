@@ -22,8 +22,10 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <div align = "center">
- <h3 align> He may never trust someone... 🎧</h3>
- <picture><img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" width = "560"/></picture>
+ <p size = "20"> He may never trust someone... 🎧 
+   <br>
+   <picture><img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" width = "560"/></picture>
+ </p>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
