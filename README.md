@@ -77,13 +77,13 @@
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Reach me </b>
-### * <b>Reality is so Virtual.</b>
-\- There is a world - <br>
-\- That is virtual and different -<br>
-\- It can be so cold -<br>
-\- If we reset it to the start -<br>
-\- Stronger after all -<br>
-\- A world of machines -<br>
+### <b>♪ Reality is so Virtual.</b>
+♪ There is a world ♪ <br>
+♪ That is virtual and different ♪<br>
+♪ It can be so cold ♪<br>
+♪ If we reset it to the start ♪<br>
+♪ Stronger after all ♪<br>
+♪ A world of machines ♪<br>
 <br>
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
 <br>
