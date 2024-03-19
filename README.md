@@ -1,27 +1,27 @@
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 align = "center">  Hi, I'm 忍shiηzσ者 aka DvNET. 👻 </h2>
+
+<h3> Working on something... <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=LEAVE+ME+ON+MY+OWN.;SOCIETY+HAS+ME+GOING+CRAZY!;Mistakes,+they+make+ya+better..."> </a></h3>
+
+<div align = "center">
+<h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+ ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
+</h3>
+</div>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <p align = "center">
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/e4aa8be3-8761-4fcb-afc1-6c276d036518" width = "500"/>
 </p>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
- <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <div align="center">
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </h3>
 <a href="https://github.com/Pahasara/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pahasara&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-</a>
-</div>
-<br>
-
-<br>
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Reach me </b>
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) 
+</a> </div>
+<br> <br>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
