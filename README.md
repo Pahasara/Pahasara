@@ -1,11 +1,6 @@
-![code](https://github.com/Pahasara/Pahasara/assets/46932317/d43f9792-5a46-4cdc-b6f5-fbca0b6eb5f5)
+<img src="https://github.com/Pahasara/Pahasara/assets/46932317/d43f9792-5a46-4cdc-b6f5-fbca0b6eb5f5" width = "500"/>
 
  <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
-
-
- <div align="center">
-
- </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <div align="center">
