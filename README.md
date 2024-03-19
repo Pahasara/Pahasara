@@ -1,4 +1,5 @@
-## 👻 I'm 忍shiηzσ者 aka DvNET.
+<br>
+##  Hi, I'm 忍shiηzσ者 aka DvNET. 👻
 
 <p align = "center">
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/e4aa8be3-8761-4fcb-afc1-6c276d036518" width = "500"/>
