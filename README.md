@@ -1,7 +1,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 align = "center">  Hi, I'm 忍shiηzσ者 aka DvNET. <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </h2> <br>
 
-<h3 align = "center"> Working on something... 👻</picture></h3>
+<h3 align = "center"> Working on something... 😈🕸️</picture></h3>
 
 <div align = "center">
 <h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -13,8 +13,8 @@
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
-<h3 align = "center"> A little more about me... 🥷</picture></h3>
 <p align = "center">
+ <h3 align = "center"> A little more about me... 👻</picture></h3>
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
 </p>
 <!-- ---------------------------------------------------------------------------------------------------- -->
