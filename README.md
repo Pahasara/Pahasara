@@ -14,8 +14,8 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <p align = "center">
- <h3 align = "center"> A little more about me... 👻</picture></h3>
- <img src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
+ <h3 align = "center"> 👻 A little more about me... </picture></h3>
+ <img align = "center" src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
 </p>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
