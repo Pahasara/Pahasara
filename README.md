@@ -4,7 +4,8 @@
  <h3 align="center">“ɴᴏᴛʜɪɴɢ ɪꜱ ᴛʀᴜᴇ. ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ.”
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
  
-## <picture align = center><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <b> About </b> </picture> 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> 
+<center> <b> About </b> </center>
 <br>
  <p align = center>
 - You don't know him; <br>
