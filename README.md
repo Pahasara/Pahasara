@@ -1,7 +1,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
-<h2 align = "center">  Hi, I'm 忍shiηzσ者 aka DvNET. <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </h2> <br>
+<h2 align = "center">  Hi, I'm 忍shiηzσ者 aka DvNET. <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </h2> </picture> <br>
 
-<h3 align = "center"> Working on something... 😈🕸️</picture></h3>
+<h3 align = "center"> Working on something... 😈 </h3>
 
 <div align = "center">
 <h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -20,6 +20,7 @@
 </p>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+<h3 align = "center"> He may never trust someone... 🎧 </picture></h3>
 <p align = "center">
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" width = "560"/>
 </p>
