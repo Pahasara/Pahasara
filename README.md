@@ -26,7 +26,7 @@
 
 <div align="center">
     <h3 style="padding:0;"><b>👻 A little more about me...</b></h3>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/3f3ba3b4-2eee-4c9c-89f6-94b3f6ceb869" alt="About Me"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/e0ef202c-3594-4119-8820-3c64e040827c" alt="About Me"
         width="560">
     <br>
 </div>
@@ -34,7 +34,7 @@
 
 <div align="center">
     <h3 style="padding:0;"><b>He may never trust someone... 🎧</b></h3>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" alt="Trust"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/d6936106-1cf5-4ea7-9304-19cb3dfdd7be" alt="Trust"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
