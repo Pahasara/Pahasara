@@ -5,7 +5,7 @@
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
  
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> 
-<center> <b> About </b> </center>
+<h2 align = center> About </h2>
 <br>
  <p align = center>
 - You don't know him; <br>
