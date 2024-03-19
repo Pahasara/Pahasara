@@ -1,6 +1,6 @@
-<center>
+<p align = "center">
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/e4aa8be3-8761-4fcb-afc1-6c276d036518" width = "450"/>
-</center>
+</p>
 
  <!-- This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 
