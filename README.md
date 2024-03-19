@@ -10,12 +10,13 @@
  <br>
  ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) 
 </h3>
+<br>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+<h3 align = "center"> 👻 A little more about me... </picture></h3>
 <p align = "center">
- <h3 align = "center"> 👻 A little more about me... </picture></h3>
- <img align = "center" src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
+ <img src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
 </p>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
