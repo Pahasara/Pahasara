@@ -5,9 +5,9 @@
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
 <center>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About </b>
-- You don't know him;
-- puts("He doesn't need anyone.");
-- cout<< "He'll do it all by himself." <<endl;
+- You don't know him; <br>
+- puts("He doesn't need anyone.");<br>
+- cout<< "He'll do it all by himself." <<endl;<br>
 <br>
 </center>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
