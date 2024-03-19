@@ -10,8 +10,8 @@
 - cout<< "He'll do it all by himself." <<endl;
 <br>
 
-### * <b> From </b>
-- There is a world
+### * <b> Reality is so Virtual. </b>
+\- There is a world
 - That is virtual and different
 - It can be so cold
 - If we reset it to the start
