@@ -13,18 +13,18 @@
 <br>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
-<p align = "center">
-<h3 align = "center"> 👻 A little more about me... </h3>
- <picture align = "center"><img src="https://github.com/Pahasara/Pahasara/assets/46932317/3f3ba3b4-2eee-4c9c-89f6-94b3f6ceb869" width = "560"/></picture>
-</p>
+
+<div align = "center">
+<h3> 👻 A little more about me... </h3>
+ <picture><img src="https://github.com/Pahasara/Pahasara/assets/46932317/3f3ba3b4-2eee-4c9c-89f6-94b3f6ceb869" width = "560"/></picture>
+</div>
 <br>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
-
-<p align = "center">
- <h3 align = "center"> He may never trust someone... 🎧</h3>
- <picture align = "center"><img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" width = "560"/></picture>
-</p>
+<div align = "center">
+ <h3 align> He may never trust someone... 🎧</h3>
+ <picture><img src="https://github.com/Pahasara/Pahasara/assets/46932317/220a9be5-9916-4924-af23-2543f9799e2c" width = "560"/></picture>
+</div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
