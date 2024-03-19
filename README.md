@@ -1,12 +1,12 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 align = "center">  Hi, I'm 忍shiηzσ者 aka DvNET. 👻 </h2>
 
-<h3> Working on something... <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=LEAVE+ME+ON+MY+OWN.;SOCIETY+HAS+ME+GOING+CRAZY!;Mistakes,+they+make+ya+better..."> </a></h3>
+<h3 align = "center"> Working on something... <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h3>
 
 <div align = "center">
 <h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
- ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
+ ![Visitor Count](https://komarev.com/ghpvc/?username=Pahasara&color=blue)   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083102293496451108)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PahasaraDv)    [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12632079) 
 </h3>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
