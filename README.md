@@ -18,6 +18,7 @@
 <p align = "center">
  <img src="https://github.com/Pahasara/Pahasara/assets/46932317/8e4dffdd-5d74-4662-bd6c-198cbfa36d14" width = "560"/>
 </p>
+<hr>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <h3 align = "center"> He may never trust someone... 🎧 </picture></h3>
