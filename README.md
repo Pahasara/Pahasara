@@ -4,7 +4,7 @@
  <h3 align="center">“ɴᴏᴛʜɪɴɢ ɪꜱ ᴛʀᴜᴇ. ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ.”
  <br> ⁻ ᴴᵃˢˢᵃⁿ⁻ⁱ⁻ˢᵃᵇᵇᵃʰ ⁽¹⁰³⁴⁻¹¹²⁴⁾</h3> <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About </b>
 - You don't know him;
 - puts("He doesn't need anyone.");
 - cout<< "He'll do it all by himself." <<endl;
