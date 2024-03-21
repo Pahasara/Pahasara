@@ -26,7 +26,7 @@
 
 <div align="center">
     <h3 style="padding:0;"><b>👻 A little more about me...</b></h3>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/fd7fd231-ae21-44a1-9dd0-bf240724457e" alt="About Me"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/b085209b-def4-4bc4-bbce-f15d53b3cecc" alt="About Me"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
