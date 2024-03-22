@@ -26,16 +26,14 @@
 
 <div align="center">
     <h3 style="padding:0;"><b>👻 A little more about me...</b></h3>
-    <img src="![code](https://github.com/Pahasara/Pahasara/assets/46932317/04652437-027f-4824-8ac2-7cc092b2141f)
-" alt="About Me"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/04652437-027f-4824-8ac2-7cc092b2141f" alt="About Me"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
     <h3 style="padding:0;"><b> may never trust someone... 🎧</b></h3>
-    <img src="![code1](https://github.com/Pahasara/Pahasara/assets/46932317/9cd6fa24-d8ac-46fe-807c-1536f07dd597)
-" alt="Trust"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/9cd6fa24-d8ac-46fe-807c-1536f07dd597" alt="Trust"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
