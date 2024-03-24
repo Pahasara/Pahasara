@@ -33,7 +33,7 @@
 
 <div align="center">
     <h3 style="padding:0;"><b> may never trust someone... 🎧</b></h3>
-    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/9cd6fa24-d8ac-46fe-807c-1536f07dd597" alt="Trust"
+    <img src="https://github.com/Pahasara/Pahasara/assets/46932317/67f90b34-4183-46af-8421-1b7cf7e86821" alt="Trust"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
