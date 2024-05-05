@@ -11,13 +11,7 @@
             width="80"><br>
         <a href="https://discord.com/users/1083102293496451108"><img
                 src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-                alt="Discord"></a>
-        <a href="https://twitter.com/PahasaraDv"><img
-                src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-                alt="Twitter"></a>
-        <a href="https://stackoverflow.com/users/12632079"><img
-                src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-                alt="Stack Overflow"></a><br>
+                alt="Discord"></a>><br>
         <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
     </h3>
     <br> <br>
