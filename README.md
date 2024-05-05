@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <div align="center">
-    <h2>Hi, I'm 忍shiηzσ者 aka DvNET.</h2>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" alt="Profile Image"
-        width="50px">
-    <br>
-    <p style="font-size:28px;"><b>Working on something... 😈</b></p>
+    <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" alt="Profile Image"
+        width="50px">GG, I'm 忍shiηzσ者 aka DvNET.</h2>
     <h3>
         <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake"
             width="80"><br>
