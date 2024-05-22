@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count" align='center'>
+<div align='right'> <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count"> </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <div align="center">
     <h2>GG, I'm 忍shiηzσ者 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" alt="Profile Image"
