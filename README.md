@@ -6,12 +6,11 @@
         width="50px"> aka DvNET.</h2>
     <h3>
         <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake"
-            width="80"><br>
+            width="80"> <br>
         <a href="https://discord.com/users/1083102293496451108">
             <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a> <br>
     </h3>
-    <br> <br>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
