@@ -4,9 +4,7 @@
 <div align="center">
     <h2>🔐, I'm 忍shiηzσ者 aka DvNET.</h2>
     <h3>
-        <img src="https://github.com/user-attachments/assets/c640702e-e6f0-46d9-9ec3-3d81fae01880" alt="dp" width="400px"> <br>
-        <img src="https://github.com/user-attachments/assets/9fff2cc0-88e3-4581-9819-bb2592a84752" alt="dp" width="400px"> <br>
-        <img src="https://github.com/user-attachments/assets/9cbd6346-15c6-4fa4-8893-ad304700978d" alt="dp" width="400px">
+        <img src="https://github.com/user-attachments/assets/c640702e-e6f0-46d9-9ec3-3d81fae01880" alt="dp" width="400px">
     </h3>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
