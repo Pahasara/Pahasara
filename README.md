@@ -4,7 +4,7 @@
 <div align="center">
     <h2>🔐, I'm 忍shiηzσ者 aka DvNET.</h2>
     <h3>
-        <img src="https://github.com/user-attachments/assets/c640702e-e6f0-46d9-9ec3-3d81fae01880" alt="dp" width="400px">
+        <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="400px">
     </h3>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
