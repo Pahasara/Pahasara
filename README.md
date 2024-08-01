@@ -10,7 +10,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-    <h3 style="padding:0;"><b>👻 A little more about me...</b></h3>
+    <h3 style="padding:0;"><b>👇 A little more about me...</b></h3>
     <img src="https://github.com/user-attachments/assets/c04ba673-2142-4fb6-a760-fbf418f9c901" alt="About Me"
         width="560">
 </div>
