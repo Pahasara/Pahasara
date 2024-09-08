@@ -11,7 +11,7 @@
 
 <div align="center">
     <h3 style="padding:0;"><b>👇 A little more about me...</b></h3>
-    <img src="https://github.com/user-attachments/assets/ee9523a3-09c2-4d55-b515-d4b48b71391c" alt="About Me"
+    <img src="https://github.com/user-attachments/assets/0dd1936c-1b9a-4198-9c5d-398321b2d04f" alt="About Me"
         width="560">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
