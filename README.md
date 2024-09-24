@@ -4,7 +4,7 @@
 <div align="center">
     <h2>🔐, I'm 忍shiηzσ者 aka DvNET.</h2>
     <h3>
-        <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="400px">
+        <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="380px">
     </h3>
     
 
@@ -14,7 +14,7 @@
         My dreams for the future? U won't believe them.<br>
         As for my hobbies... I have lots of hobbies.</i></b><br>
    </p>
-</div>
+</div> <br>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
