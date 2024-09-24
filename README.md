@@ -2,7 +2,7 @@
 <div align='right'> <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count"> </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <div align="center">
-    <h2>🔐, I'm 忍shiηzσ者 aka DvNET.</h2>
+    <h2>🔐 DvNET (忍shiηzσ者)</h2>
     <h3>
         <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="380px">
     </h3>
