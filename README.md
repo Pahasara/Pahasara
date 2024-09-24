@@ -12,7 +12,7 @@
         <b><i>I'm Pahasara DvNET (忍shiηzσ者).<br>
         Things I like and things I hate... I don't feel like telling u that.<br>
         My dreams for the future? U won't believe them.<br>
-        As for my hobbies... I have lots of hobbies.</i></b>
+        As for my hobbies... I have lots of hobbies.</i></b><br>
    </p>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
