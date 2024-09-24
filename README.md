@@ -10,7 +10,7 @@
 ```comment
 I'm Pahasara DvNET (忍shiηzσ者). 
 Things I like and things I hate.. I don't feel like telling u that. 
-My dreams for the future.. U won't beleive. 
+My dreams for the future.. U won't believe. 
 As for my hobbies.. I have lots of hobbies.
 ```
 </div>
