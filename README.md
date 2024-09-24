@@ -7,12 +7,13 @@
         <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="400px">
     </h3>
     
-```comment
-I'm Pahasara DvNET (忍shiηzσ者). 
-Things I like and things I hate.. I don't feel like telling u that. 
-My dreams for the future.. U won't believe. 
-As for my hobbies.. I have lots of hobbies.
-```
+
+   <p align="center">
+        <b><i>I'm Pahasara DvNET (忍shiηzσ者).<br>
+        Things I like and things I hate... I don't feel like telling u that.<br>
+        My dreams for the future? U won't believe them.<br>
+        As for my hobbies... I have lots of hobbies.</i></b>
+   </p>
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
