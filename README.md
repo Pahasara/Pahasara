@@ -64,8 +64,10 @@ public class 忍shiηzo者
 ## 📊 Battle Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pahasara&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0d1117&title_color=00D6FF&text_color=ffffff&icon_color=00D6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00D6FF&text_color=ffffff"/>
+    
+![](https://raw.githubusercontent.com/pahasara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pahasara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 </div>
 
 ---
