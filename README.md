@@ -1,32 +1,100 @@
-<!DOCTYPE html>
-<div align='right'> <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count"> </div>
-<!-- ---------------------------------------------------------------------------------------------------- -->
 <div align="center">
-    <h2>🔐 DvNET (忍shiηzσ者)</h2>
-    <h3>
-        <img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="380px">
-    </h3>
-    
 
-   <p align="center">
-        <b><i>I'm Pahasara DvNET (忍shiηzσ者).<br>
-        Things I like and things I hate... I don't feel like telling u that.<br>
-        My dreams for the future? U won't believe them.<br>
-        As for my hobbies... I have lots of hobbies.</i></b><br>
-   </p>
-</div> <br>
-<!-- ---------------------------------------------------------------------------------------------------- -->
+# 🔐 DvNET (忍shiηzσ者)
 
-<div align="center">
-    <h3 style="padding:0;"><b>👇 A little more about me...</b></h3>
-    <img src="https://github.com/user-attachments/assets/45a32a4e-dda5-4bf6-9104-4477d42355ab" alt="About Me"
-        width="560">
+<img src="https://github.com/user-attachments/assets/81ac5e92-092c-4126-b797-f586f5372122" alt="dp" width="380px">
 
 </div>
-<!-- ---------------------------------------------------------------------------------------------------- -->
+
+<p align="center">
+<b><i>I'm Pahasara DvNET (忍shiηzσ者).<br>
+Things I like and things I hate... I don't feel like telling u that.<br>
+My dreams for the future? U won't believe them.<br>
+As for my hobbies... I have lots of hobbies.</i></b><br>
+</p>
+
+---
+
+## 🎭 About the Code
+
+```csharp
+public class 忍shiηzo者
+{
+    static void Main(string[] args)
+    {
+        var dvnet = new Developer
+        {
+            Name = "Pahasara DvNET (忍shiηzσ者)",
+            Age = GetAge(startedCoding: 13),
+            Status = "SE Undergrad | INTJ | Linux Devotee",
+            Mindset = "Perfectin' my passion",
+        };
+    }
+}
+````
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
-    <h3 style="padding:0;">💬 Reach Me</h3>
-    <a href="https://discord.com/users/1083102293496451108">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
+
+### Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4120D4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white)
+
+### Systems & Tools
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0773D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-2E2E2E?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F06019?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Battle Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pahasara&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0d1117&title_color=00D6FF&text_color=ffffff&icon_color=00D6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahasara&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00D6FF&text_color=ffffff"/>
+</div>
+
+---
+
+## 🎵 **Current Soundtrack**
+
+<div align="center">
+
+![Hardcore](https://img.shields.io/badge/Hardcore%20Rap-DC143C?style=for-the-badge&logo=spotify&logoColor=white)
+![Conscious](https://img.shields.io/badge/Conscious%20Rap-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)
+![Metal](https://img.shields.io/badge/Nu%20Metal-8B0000?style=for-the-badge&logo=spotify&logoColor=white)
+![Alt Metal](https://img.shields.io/badge/Alt%20Metal-2F4F4F?style=for-the-badge&logo=spotify&logoColor=white)
+![Visual Kei](https://img.shields.io/badge/Visual%20Kei-FF1493?style=for-the-badge&logo=spotify&logoColor=white)
+![Country](https://img.shields.io/badge/Country-DAA520?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
+
+---
+
+## 💬 **Reach Me**
+
+<div align="center">
+<a href="https://discord.com/users/1083102293496451108">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pahasara&color=0088FF&style=flat-square&label=Profile+Views" />
 </div>
