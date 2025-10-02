@@ -76,12 +76,12 @@ public class 忍shiηzo者
 
 <div align="center">
 
-![Hardcore](https://img.shields.io/badge/Hardcore%20Rap-DC143C?style=for-the-badge&logo=spotify&logoColor=white)
-![Conscious](https://img.shields.io/badge/Conscious%20Rap-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)
-![Metal](https://img.shields.io/badge/Nu%20Metal-8B0000?style=for-the-badge&logo=spotify&logoColor=white)
-![Alt Metal](https://img.shields.io/badge/Alt%20Metal-2F4F4F?style=for-the-badge&logo=spotify&logoColor=white)
-![Visual Kei](https://img.shields.io/badge/Visual%20Kei-FF1493?style=for-the-badge&logo=spotify&logoColor=white)
-![Country](https://img.shields.io/badge/Country-DAA520?style=for-the-badge&logo=spotify&logoColor=white)
+![Hardcore Rap](https://img.shields.io/badge/Hardcore%20Rap-DC143C?style=for-the-badge&logo=spotify&logoColor=white)
+![Conscious Rap](https://img.shields.io/badge/Conscious%20Rap-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)
+![Nu Metal](https://img.shields.io/badge/Nu%20Metal-8B0000?style=for-the-badge&logo=spotify&logoColor=white)
+![Alt Rock](https://img.shields.io/badge/Alt%20Rock-1E90FF?style=for-the-badge&logo=spotify&logoColor=white)
+![J-Rock](https://img.shields.io/badge/J--Rock-800080?style=for-the-badge&logo=spotify&logoColor=white)
+![West Coast](https://img.shields.io/badge/West%20Coast%20Rap-228B22?style=for-the-badge&logo=spotify&logoColor=white)
 
 </div>
 
@@ -93,9 +93,14 @@ public class 忍shiηzo者
 <a href="https://discord.gg/Teqv2krs">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
+
+<a href="mailto:pahasaradev@proton.me">
+<img src="https://img.shields.io/badge/Email-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white" alt="E-Mail">
+</a>
 </div>
 
 ---
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pahasara&color=0088FF&style=flat-square&label=Profile+Views" />
