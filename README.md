@@ -81,7 +81,7 @@ public class 忍shiηzo者
 ![Nu Metal](https://img.shields.io/badge/Nu%20Metal-8B0000?style=for-the-badge&logo=spotify&logoColor=white)
 ![Alt Rock](https://img.shields.io/badge/Alt%20Rock-1E90FF?style=for-the-badge&logo=spotify&logoColor=white)
 ![J-Rock](https://img.shields.io/badge/J--Rock-800080?style=for-the-badge&logo=spotify&logoColor=white)
-![West Coast](https://img.shields.io/badge/West%20Coast%20Rap-228B22?style=for-the-badge&logo=spotify&logoColor=white)
+![West Coast](https://img.shields.io/badge/West%20Coast-228B22?style=for-the-badge&logo=spotify&logoColor=white)
 
 </div>
 
