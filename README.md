@@ -77,11 +77,11 @@ public class 忍shiηzo者
 <div align="center">
 
 ![Hardcore Rap](https://img.shields.io/badge/Hardcore%20Rap-DC143C?style=for-the-badge&logo=spotify&logoColor=white)
-![Conscious Rap](https://img.shields.io/badge/Conscious%20Rap-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)
+![Conscious Rap](https://img.shields.io/badge/Conscious%20Rap-FF8C00?style=for-the-badge&logo=spotify&logoColor=white)
+![Gangsta Rap](https://img.shields.io/badge/Gangsta%20Rap-000000?style=for-the-badge&logo=spotify&logoColor=white)
 ![Nu Metal](https://img.shields.io/badge/Nu%20Metal-8B0000?style=for-the-badge&logo=spotify&logoColor=white)
 ![Alt Rock](https://img.shields.io/badge/Alt%20Rock-1E90FF?style=for-the-badge&logo=spotify&logoColor=white)
 ![J-Rock](https://img.shields.io/badge/J--Rock-800080?style=for-the-badge&logo=spotify&logoColor=white)
-![West Coast](https://img.shields.io/badge/West%20Coast-228B22?style=for-the-badge&logo=spotify&logoColor=white)
 
 </div>
 
